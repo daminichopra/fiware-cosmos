@@ -11,7 +11,7 @@ Content:
 
 ##<a name="section1"></a>Installation
 ###<a name="section1.1"></a>Prerequisites
-This PER proxy has no sense if an Identity Manager (Keyrock implementation can be found [here](http://catalogue.fiware.org/enablers/identity-management-keyrock)) is not installed. The same applies to [Cosmos](http://catalogue.fiware.org/enablers/bigdata-analysis-cosmos).
+This PEP proxy has no sense if an Identity Manager (Keyrock implementation can be found [here](http://catalogue.fiware.org/enablers/identity-management-keyrock)) is not installed. The same applies to [Cosmos](http://catalogue.fiware.org/enablers/bigdata-analysis-cosmos).
 
 cosmos-proxy is a Node.js application, therefore install it from the official [download](https://nodejs.org/download/). An advanced alternative is to install [Node Version Manager](https://github.com/creationix/nvm) (nvm) by creationix/Tim Caswell, which will allow you to have several versions of Node.js and switch among them.
 
