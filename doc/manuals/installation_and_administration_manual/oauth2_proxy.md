@@ -47,7 +47,7 @@ Then, clone the Cosmos repository somewhere of your ownership:
 
 Change to the `cosmos-proxy` directory, change the branch from `master` to `develop` and execute the installation command:
 
-    $ cd fiware-comos/cosmos-proxy
+    $ cd fiware-cosmos/cosmos-proxy
     $ git checkout release/x.y.z
     $ npm install
 
